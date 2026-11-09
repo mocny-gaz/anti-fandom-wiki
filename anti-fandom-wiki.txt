@@ -1,4 +1,4 @@
-! Title: fandom wiki blocker
+! Title: Anti fandom wiki
 ! Description: blocks the invasive and missleading fandom wikis
 ||fandom.wiki^
 google.*##.MjjYud:has(a[href*="fandom.wiki"])
